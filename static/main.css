@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(110deg, #d6efc7 60%, #96bb7c 60%);
+}
+canvas{
+    background: white;
+}
+
+.content-area{
+    max-width: 500px;
+    margin: auto;
+}
