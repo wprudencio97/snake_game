@@ -1,1 +1,1 @@
-web: gunicorn snake_game.wsgi
+web: gunicorn snake.wsgi
